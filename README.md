@@ -177,7 +177,7 @@ This task demonstrates the integration of Git Large File Storage (LFS) to handle
     * Pushed the `lfs` branch to GitHub: `git push -u origin lfs`
     * Verified on GitHub that the file is tracked by LFS (a small pointer file is shown, not the full binary).
 
-5.  **Verify LFS on Another Machine (Conceptual/Demonstration):**
+5.  **Verify LFS on Another Machine:**
     * (Simulated the process of cloning on another machine)
     * On a different machine (or after deleting the local clone and re-cloning):
         * Cloned the repository: `git clone <repository_url>`
