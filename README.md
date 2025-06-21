@@ -2,32 +2,12 @@
 
 This repository contains the solutions for the Git assignment from HeroVired. The assignment covers various Git concepts including branching, merging, pull requests, Git LFS, and Git stash.
 
-## Table of Contents
 
-- [Assignment Description](#assignment-description)
-- [Submission Guidelines](#submission-guidelines)
-- [Task 1: CalculatorPlus Application - Git Workflow](#task-1-calculatorplus-application---git-workflow)
-    - [Steps Performed](#steps-performed)
-- [Task 2: Git LFS Integration](#task-2-git-lfs-integration)
-    - [Steps Performed](#steps-performed-1)
-- [Task 3: Geometry Calculator - Git Stash Workflow](#task-3-geometry-calculator---git-stash-workflow)
-    - [Steps Performed](#steps-performed-2)
-
----
 
 ## Assignment Description
 
-This assignment focuses on demonstrating proficiency in Git and GitHub workflows. It involves implementing new features, managing branches, handling large files, and utilizing Git stash for efficient development.
+This assignment focuses on demonstrating proficiency in Git and GitHub workflows. It involves implementing new features, managing branches, handling large files, and utilizing Git stash for efficient development
 
-## Submission Guidelines
-
-1.  **Repository Name:** The GitHub repository name must be `git_assignment_HeroVired`.
-2.  **Repository Visibility:** The repository must be **private** initially. After the due submission date, it should be made **public** for correction.
-3.  **Submission:** Create a text file (or Word/PDF) containing only the GitHub repository link and upload it to the submission section in Vlearn.
-4.  **README.md:** This `README.md` file clearly outlines all assignment-related steps and the actions performed for each task.
-5.  **Timeliness:** No submissions after the due date will be considered.
-
----
 
 ## Task 1: CalculatorPlus Application - Git Workflow
 
