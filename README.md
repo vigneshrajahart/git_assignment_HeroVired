@@ -66,7 +66,6 @@ This task involves implementing a new square root feature in a Python calculator
     * Created a release tag `v1.0.0` for "Version 1 of Calculator Plus App" on GitHub.
 
 4.  **Add Collaborators (d):**
-    * (Not directly performable via Git commands, but simulated steps)
     * Navigated to the GitHub repository settings.
     * Went to "Collaborators and teams" and added a dummy collaborator (or described the process if a real classmate was not available at the moment).
 
@@ -137,8 +136,6 @@ This task involves implementing a new square root feature in a Python calculator
     * Switched to the `dev` branch: `git checkout dev`
     * Merged `feature/sqrt` into `dev`: `git merge feature/sqrt`
     * Pushed the `dev` branch to GitHub: `git push origin dev`
-    * Deleted the `feature/sqrt` branch locally: `git branch -d feature/sqrt`
-    * Deleted the `feature/sqrt` branch on remote: `git push origin --delete feature/sqrt`
 
 11. **Testing in `dev`, Merge to `main`, and Release v2 (k):**
     * Performed local testing on the `dev` branch to ensure all features (addition, subtraction, multiplication, safe division, square root) work correctly.
